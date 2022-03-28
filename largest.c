@@ -68,6 +68,6 @@ void quickSortMediana3Insertion(Item *v,int l,int r){
 
 int findKthLargest(int* nums, int numsSize, int k){
   quickSortMediana3Insertion(nums,0,numsSize-1);
-  int value = numsSize - (k-1);
-  return value;
+  int value = numsSize - (k);
+  return nums[value];
 }
