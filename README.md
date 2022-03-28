@@ -51,15 +51,7 @@ Abaixo constam os screenshots demonstrando que os problemas foram aceitos nos ju
 
 ## Uso 
 
-Para rodar as questões feitas em python, acesse o terminal do seu computador e digite 
-
-```python3 <nome_da_questao.py>```
-
-Para rodar as questões feitas em C, acesse o terminal do seu computador e digite 
-
-``` gcc largest.c -o largest```
-
-``` ./largest ```
+Para rodar as questões é necessário utilizar o compilador do leetcode, pois ele exige uma classe "Solution" e já passa os parâmetros de entrada como argumentos de função.
 
 ## Apresentação 
 
