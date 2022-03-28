@@ -33,16 +33,16 @@ Os links para acessar a descrição das questões são:
 
 Abaixo constam os screenshots demonstrando que os problemas foram aceitos nos juízes online.
 
-### Fractional Knapsack
+### Sort an array
 ![Sort an array](/images/sortandarray_print.png)
 
-### Cedulas
+### Kth-Largest-Element-In-An-Array
 ![Kth-Largest-Element-In-An-Array](/images/kthlargest_print.png)
 
-### Milk Scheduling
+### Beautiful Array
 ![Beautiful Array](/images/beautiful_array_print.png)
 
-### Busy
+### Longest Substring
 ![Longest Substring](/images/longest_substring_print.png)
 
 ## Instalação 
