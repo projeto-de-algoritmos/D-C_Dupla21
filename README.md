@@ -1,45 +1,67 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
 Temas:
- - Grafos1
- - Grafos2
- - PD
  - D&C
- - Greed
- - Final 
  
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+# D-C_Dupla21
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 21<br>
+**Conteúdo da Disciplina**: Dividir e conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0123203 |  João Pedro Alves da Silva Chaves |
+| 19/0026243  |  Dafne Moretti Moreira |
+
+
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+Este repositório contém quatro questões de juízes online sobre algoritmos ambiciosos.
+
+Os links para acessar a descrição das questões são:
+
+* [Sort an array](https://leetcode.com/problems/sort-an-array/)
+
+* [Kth-Largest-Element-In-An-Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+* [Beautiful array](https://leetcode.com/problems/beautiful-array/)
+
+* [Longest Substring](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+Abaixo constam os screenshots demonstrando que os problemas foram aceitos nos juízes online.
+
+### Fractional Knapsack
+![Sort an array](/images/sortandarray_print.png)
+
+### Cedulas
+![Kth-Largest-Element-In-An-Array](/images/kthlargest_print.png)
+
+### Milk Scheduling
+![Beautiful Array](/images/beautiful_array_print.png)
+
+### Busy
+![Longest Substring](/images/longest_substring_print.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python e C<br>
+**Framework**: Não há<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para rodar as questões feitas em python, acesse o terminal do seu computador e digite 
 
+```python3 <nome_da_questao.py>```
+
+Para rodar as questões feitas em C, acesse o terminal do seu computador e digite 
+
+```python3 <nome_da_questao.py>```
+
+## Apresentação 
+
+Link para a apresentação: [Link]()
 
 
 
