@@ -17,7 +17,7 @@ Temas:
 
 ## Sobre 
 
-Este repositório contém quatro questões de juízes online sobre algoritmos ambiciosos.
+Este repositório contém quatro questões de juízes online sobre dividir e conquistar.
 
 Os links para acessar a descrição das questões são:
 
@@ -57,7 +57,9 @@ Para rodar as questões feitas em python, acesse o terminal do seu computador e 
 
 Para rodar as questões feitas em C, acesse o terminal do seu computador e digite 
 
-```python3 <nome_da_questao.py>```
+``` gcc largest.c -o largest```
+
+``` ./largest ```
 
 ## Apresentação 
 
